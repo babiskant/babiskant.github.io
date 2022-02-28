@@ -2,7 +2,7 @@
 
 ---
 
-### UNI_FEM
+### FINITE_ELEMENT_METHOD
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### UNI_CFD
+### COMPUTATIONAL_FLUID_DYNAMICS
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,7 +27,7 @@
 
 ---
 
-### UNI_ICE_ENGINES
+### INTERNAL_COMBUSTION_ENGINES
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
