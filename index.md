@@ -4,22 +4,22 @@
 
 ### FINITE_ELEMENT_METHOD
 
-[Project 1 Title](/sample_page)
+[3D crane strain & stress analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[2D plane strain & stress analysis](/pdf/sample_presentation.pdf)
 
-[Project 3 Title](/pdf/sample_presentation.pdf)
+[2D plane parametric studies & sensitivity analysis](/pdf/sample_presentation.pdf)
 
 ---
 
 ### COMPUTATIONAL_FLUID_DYNAMICS
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Geometry discretization & velocity interpolation schemes](http://example.com/)
+- [Incompressible Couette Flow: Numerical Solutions by Means of an Implicit & Explicit Method coupled with relaxation techniques](http://example.com/)
+- [Numerical investigation of Quasi-One-Dimensional Nozzle Flows](http://example.com/)
+- [Grid transformation & Pressure correction methods](http://example.com/)
 
 
 ---
