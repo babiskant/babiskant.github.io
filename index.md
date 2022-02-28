@@ -42,8 +42,8 @@
 
 ### COMBUSTION MODELING
 
-- [Project 1](http://example.com/)
-- [Project 2](http://example.com/)
+- [Jet engine combustion chamber modeling](http://example.com/)
+- [SENKIN computer programm for reacting gas mixture computation](http://example.com/)
 
 ---
 
