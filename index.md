@@ -34,9 +34,9 @@
 
 ### AIRCRAFT_DESIGN_&_CONTROL
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Aircraft performance assessment](http://example.com/)
+- [Aircraft stability & control evaluation](http://example.com/)
+- [Conceptual design of a new aircraft for medical operations](http://example.com/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
