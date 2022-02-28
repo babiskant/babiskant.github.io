@@ -11,10 +11,8 @@
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
+[Project 4 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ### COMPUTATIONAL_FLUID_DYNAMICS
@@ -28,6 +26,14 @@
 ---
 
 ### INTERNAL_COMBUSTION_ENGINES
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+---
+
+### AIRCRAFT_DESIGN_&_CONTROL
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
