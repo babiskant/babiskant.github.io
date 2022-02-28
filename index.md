@@ -26,10 +26,10 @@
 
 ### INTERNAL_COMBUSTION_ENGINES
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Gasoline Engine Modeling](http://example.com/)
+- [Gasoline Engine parametric study](http://example.com/)
+- [Mathematical model of four-stroke DI combustion engine working process](http://example.com/)
+- [A transient 1D Oxidation Catalyst model](http://example.com/)
 ---
 
 ### AIRCRAFT_DESIGN_&_CONTROL
@@ -39,5 +39,13 @@
 - [Conceptual design of a new aircraft for medical operations](http://example.com/)
 
 ---
+
+### COMBUSTION MODELING
+
+- [Project 1](http://example.com/)
+- [Project 2](http://example.com/)
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
