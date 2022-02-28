@@ -9,10 +9,9 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Project 4 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Title](/pdf/sample_presentation.pdf)
+
 ---
 
 ### COMPUTATIONAL_FLUID_DYNAMICS
