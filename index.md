@@ -4,13 +4,13 @@
 
 ### FINITE_ELEMENT_METHOD
 
-[3D crane strain & stress analysis](/sample_page)
+[3D crane construction, strain & stress analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[2D plane strain & stress analysis](/pdf/sample_presentation.pdf)
+[2D plate with hole, strain & stress analysis](/pdf/sample_presentation.pdf)
 
-[2D plane parametric studies & sensitivity analysis](/pdf/sample_presentation.pdf)
+[2D plate with hole, parametric studies & sensitivity analysis](/pdf/sample_presentation.pdf)
 
 ---
 
