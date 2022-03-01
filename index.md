@@ -2,7 +2,17 @@
 
 ---
 
-### FINITE_ELEMENT_METHOD
+### MASTER THESIS
+[A DoE-based method for the aerodynamic, stability and layout optimization of a tactical Blended-Wing Body UAV ](/sample_page)
+
+---
+
+### INTERNSHIP
+[Combustion modeling in a novel concentric rotary internal combustion engine ](/sample_page)
+
+---
+
+### UNI_FINITE_ELEMENT_METHOD
 
 [3D crane construction, strain & stress analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -14,7 +24,7 @@
 
 ---
 
-### COMPUTATIONAL_FLUID_DYNAMICS
+### UNI_COMPUTATIONAL_FLUID_DYNAMICS
 
 - [Geometry discretization & velocity interpolation schemes](http://example.com/)
 - [Incompressible Couette Flow: Numerical Solutions by Means of an Implicit & Explicit Method coupled with relaxation techniques](http://example.com/)
@@ -24,7 +34,7 @@
 
 ---
 
-### INTERNAL_COMBUSTION_ENGINES
+### UNI_INTERNAL_COMBUSTION_ENGINES
 
 - [Gasoline Engine Modeling](http://example.com/)
 - [Gasoline Engine parametric study](http://example.com/)
@@ -32,7 +42,7 @@
 - [A transient 1D Oxidation Catalyst model](http://example.com/)
 ---
 
-### AIRCRAFT_DESIGN_&_CONTROL
+### UNI_AIRCRAFT_DESIGN_&_CONTROL
 
 - [Aircraft performance assessment](http://example.com/)
 - [Aircraft stability & control evaluation](http://example.com/)
@@ -40,7 +50,7 @@
 
 ---
 
-### COMBUSTION MODELING
+### UNI_COMBUSTION MODELING
 
 - [Combustion model of jet engine](http://example.com/)
 - [SENKIN computer programm for reacting gas mixture computation](http://example.com/)
