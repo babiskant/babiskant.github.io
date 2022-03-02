@@ -20,14 +20,14 @@
 
 ### UNI_FINITE_ELEMENT_METHOD
 
--[3D crane construction, strain & stress analysis](/sample_page)
-<img src="images/FEM_1H_1.png?raw=true"/>
-<img src="images/PFEM_1H_2.png?raw=true"/>
+- [3D crane construction, strain & stress analysis](/sample_page)
+
+<img src="images/FEM_1H_1.png?raw=true"/>,<img src="images/FEM_1H_2.png?raw=true"/>
 <img src="images/FEM_1H_3.png?raw=true"/>
 
--[2D plate with hole, strain & stress analysis](/pdf/sample_presentation.pdf)
+- [2D plate with hole, strain & stress analysis](/pdf/sample_presentation.pdf)
 
--[2D plate with hole, parametric studies & sensitivity analysis](/pdf/sample_presentation.pdf)
+- [2D plate with hole, parametric studies & sensitivity analysis](/pdf/sample_presentation.pdf)
 
 ---
 
