@@ -4,7 +4,12 @@
 
 ### MASTER THESIS
 [A DoE-based method for the aerodynamic, stability and layout optimization of a tactical Blended-Wing Body UAV ](/sample_page)
+<img src="images/Picture3.png?raw=true"/>
 <img src="images/Picture1.jpg?raw=true"/>
+<img src="images/Picture4.png?raw=true"/>
+<img src="images/Picture5.png?raw=true"/>
+<img src="images/Picture2.png?raw=true"/>
+
 ---
 
 ### INTERNSHIP
