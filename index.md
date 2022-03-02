@@ -44,8 +44,20 @@
 ### UNI_COMPUTATIONAL_FLUID_DYNAMICS
 
 - [Geometry discretization & velocity interpolation schemes](http://example.com/)
+<img src="images/CFD_1H_1.png?raw=true"/>
+<img src="images/CFD_1H_2.png?raw=true"/>
+<img src="images/CFD_1H_3.png?raw=true"/>
+
 - [Incompressible Couette Flow: Numerical Solutions by Means of an Implicit & Explicit Method coupled with relaxation techniques](http://example.com/)
+<img src="images/CFD_2H_1.png?raw=true"/>
+<img src="images/CFD_2H_2.png?raw=true"/>
+
 - [Numerical investigation of Quasi-One-Dimensional Nozzle Flows](http://example.com/)
+<img src="images/CFD_3H_1.png?raw=true"/>
+<img src="images/CFD_3H_2.png?raw=true"/>
+<img src="images/CFD_3H_3.png?raw=true"/>
+<img src="images/CFD_3H_4.png?raw=true"/>
+
 - [Grid transformation & Pressure correction methods](http://example.com/)
 
 
