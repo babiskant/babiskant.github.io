@@ -32,6 +32,12 @@
 <img src="images/FEM_2H_7.png?raw=true"/>
 
 - [2D plate with hole, parametric studies & sensitivity analysis](/pdf/sample_presentation.pdf)
+<img src="images/FEM_3H_1.png?raw=true"/>
+<img src="images/FEM_3H_2.png?raw=true"/>
+<img src="images/FEM_3H_3.png?raw=true"/>
+<img src="images/FEM_3H_4.jpg?raw=true"/>
+<img src="images/FEM_3H_5.jpg?raw=true"/>
+<img src="images/FEM_3H_6.png?raw=true"/>
 
 ---
 
