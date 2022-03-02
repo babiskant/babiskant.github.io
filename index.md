@@ -21,7 +21,6 @@
 ### UNI_FINITE_ELEMENT_METHOD
 
 [3D crane construction, strain & stress analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [2D plate with hole, strain & stress analysis](/pdf/sample_presentation.pdf)
@@ -45,7 +44,7 @@
 - [Gasoline Engine Modeling](http://example.com/)
 - [Gasoline Engine parametric study](http://example.com/)
 - [Mathematical model of four-stroke DI combustion engine working process](http://example.com/)
-- [A transient 1D Oxidation Catalyst model](http://example.com/)
+- [A transient 1D Oxidation Catalyst Model](http://example.com/)
 ---
 
 ### UNI_AIRCRAFT_DESIGN_&_CONTROL
