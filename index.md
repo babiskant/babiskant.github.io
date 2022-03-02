@@ -76,8 +76,24 @@
 ### UNI_AIRCRAFT_DESIGN_&_CONTROL
 
 - [Aircraft performance assessment](http://example.com/)
+<img src="images/Peri_1H_1.png?raw=true"/>
+<img src="images/Peri_1H_2.png?raw=true"/>
+
 - [Aircraft stability & control evaluation](http://example.com/)
+<img src="images/Peri_2H_1.png?raw=true"/>
+<img src="images/Peri_2H_2.png?raw=true"/>
+<img src="images/Peri_2H_3.png?raw=true"/>
+<img src="images/Peri_2H_4.png?raw=true"/>
+<img src="images/Peri_2H_5.png?raw=true"/>
+
 - [Conceptual design of a new aircraft for medical operations](http://example.com/)
+<img src="images/Peri_3H_1.png?raw=true"/>
+<img src="images/Peri_3H_2.png?raw=true"/>
+<img src="images/Peri_3H_3.png?raw=true"/>
+<img src="images/Peri_3H_4.png?raw=true"/>
+<img src="images/Peri_3H_5.png?raw=true"/>
+<img src="images/Peri_3H_6.png?raw=true"/>
+<img src="images/Peri_3H_7.png?raw=true"/>
 
 ---
 
