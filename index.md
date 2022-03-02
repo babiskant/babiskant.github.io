@@ -7,6 +7,7 @@
 <img src="images/Picture3.png?raw=true"/>
 <img src="images/Picture1.jpg?raw=true"/>
 <img src="images/Picture4.png?raw=true"/>
+<img src="images/Picture6.png?raw=true"/>
 <img src="images/Picture5.png?raw=true"/>
 <img src="images/Picture2.png?raw=true"/>
 
