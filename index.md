@@ -24,7 +24,6 @@
 
 - [2D plate with hole, strain & stress analysis](/pdf/sample_presentation.pdf)
 
-<img src="images/FEM_2H_1.png?raw=true"/>
 <img src="images/FEM_2H_2.png?raw=true"/>
 <img src="images/FEM_2H_3.png?raw=true"/>
 <img src="images/FEM_2H_4.png?raw=true"/>
